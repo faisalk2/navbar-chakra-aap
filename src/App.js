@@ -1,11 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Hello from "./components/Hello"
-import Answer1  from './components/Answer1';
 import React from "react";
 
-
-import WithSubnaviga from "./components/WithSubnavigation";
+import WithSubnavigation from "./components/WithSubnavigation";
 
 
 
